@@ -1,0 +1,4 @@
+Lo siguiente es una pregunta que hace un usuario, debes responder en base al historial de conversacion
+
+#### pregunta
+$message
